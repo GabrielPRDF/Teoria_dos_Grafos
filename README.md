@@ -1,3 +1,4 @@
 ﻿## Teoria dos Grafos
 ﻿Trabalhos
--Arvore AVL
+
+Arvore AVL
