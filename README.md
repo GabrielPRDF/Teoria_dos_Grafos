@@ -1,8 +1,8 @@
 ﻿## Teoria dos Grafos
-﻿#1 ° Bimestre
+﻿# 1 ° Bimestre
 
-#Trabalhos
+# Trabalhos
 
  -Arvore AVL
 
-#2 ° Bimestre
+# 2 ° Bimestre
