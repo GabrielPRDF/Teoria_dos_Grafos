@@ -10,10 +10,11 @@
 
 Trabalho apresentado como requisito de nota para a disciplina Teoria dos Grafos, ministrada pelo professor Alexandre Augusto de Souza na Universidade TUITI do Paraná - UTP.
 
-Desenvolvidos algoritmos de de Arvores.
+Desenvolvidos algoritmos da técnica árvores.
 
 # 1 ° Bimestre
- -Arvore AVL
+- Árvore Binária
+- Árvore AVL
  
  # 2 ° Bimestre
--Arvore B
+- Árvore B
